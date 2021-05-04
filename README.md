@@ -20,7 +20,7 @@ The first part of the challenge is already partially implemented in the `Currenc
 
 The next part of this challenge will be to test to your API to make sure it works as expected. 
 
-If you decided to complete the .NET implementation you can choose to add more tests using the `CurrencyConverterLib.Tests` project. If you're using another technology, make sure to add unit tests to your API library.
+If you decided to complete the .NET implementation you can choose to add more tests using the `CurrencyConverterLib.Tests` project. If you used another technology in the previous step, make sure to add unit tests to your API library.
 
 Please add tests to sufficiency.
 
