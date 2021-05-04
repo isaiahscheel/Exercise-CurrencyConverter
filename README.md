@@ -20,7 +20,7 @@ The first part of the challenge is already partially implemented in the `Currenc
 
 The next part of this challenge will be to test to your API to make sure it works as expected. 
 
-If you decided to complete the .NET implementation you can choose to add more tests using the `CurrencyConverterLib.Tests` project. If not feel free to add unit tests to your API library with whatever technology you prefer.
+If you decided to complete the .NET implementation you can choose to add more tests using the `CurrencyConverterLib.Tests` project. If you're using another technology, make sure to add unit tests to your API library.
 
 Please add tests to sufficiency.
 
@@ -38,11 +38,7 @@ We do however highly encourage you to use our custom Auro Design System to get a
 
 ## What We're Looking For
 
-- How efficient the implementation is.
-- How is the implementation organized.
-- How well is the code tested.
+- How efficient is the implementation?
+- How is the implementation organized?
+- How well is the code tested?
 - How accessible is the front end?
-
-##  Contact Us
-
-If you have any questions please feel free to ask us any questions at [PUT EMAIL HERE?].
