@@ -31,7 +31,9 @@ The final part of this challenge will be to create a front-end that uses this AP
 Please choose one of these technologies and implement a front-end that allows a guest to choose any starting currency, any currency to convert to, and any amount of currency to convert. 
 
 Here is a sample of what it can look like: 
+
 ![Currency Converter](./currency-converter.png)
+
 But feel free to implement whatever design you would like.
 
 We do however highly encourage you to use our custom Auro Design System to get any components or colors you may want to use: https://auro.alaskaair.com/getting-started/developers/common-definitions.
